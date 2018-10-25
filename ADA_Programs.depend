@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1540480443 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p1_linsrch.cpp
+	<iostream>
+	<conio.h>
+
+1540480788 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p2_binsrch.cpp
+	<iostream>
+	<conio.h>
+
+1540481094 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p1_2_binsrch.cpp
+	<iostream>
+	<conio.h>
+
+1540481441 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p2_1_inssrt.cpp
+	<iostream>
+	<conio.h>
+
+1540481726 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p2_2_mrgsrt.cpp
+	<iostream>
+	<conio.h>
+
+1540482924 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p5_2_quicksrt.cpp
+	<iostream>
+
+1540497776 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p6_straseenmatrix.cpp
+	<iostream>
+	<conio.h>
+
+1540483783 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p8_dijkstraalgo.cpp
+	<iostream>
+	<vector>
+	<queue>
+
+1540484174 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p10_knapsackalgo.cpp
+	<iostream>
+
+1540497804 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p7_2_primsalgo.cpp
+	<stdio.h>
+	<limits.h>
+	<conio.h>
+
+1540497790 source:e:\yash\college bmcem\sem5\ada or daa\lab\programs\ada_programs\p7_1_krsklalgo.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="P7_2_PrimsAlgo.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2367" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="P1_2_BinSrch.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="741" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="P5_2_QuickSrt.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="38" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="21" />
+			<Collapse line="24" />
+			<Collapse line="31" />
+		</Folding>
+	</File>
+	<File name="P3_1_BblSrt.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="628" topLine="13" />
+		</Cursor>
+	</File>
+	<File name="P3_2_RdxSrt.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1703" topLine="43" />
+		</Cursor>
+	</File>
+	<File name="P9_FloydAlgo.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1505" topLine="41" />
+		</Cursor>
+	</File>
+	<File name="P8_DijkstraAlgo.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="831" topLine="23" />
+		</Cursor>
+	</File>
+	<File name="P1_1_LinSrch.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="355" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="P7_1_KrsklAlgo.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4141" topLine="137" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
